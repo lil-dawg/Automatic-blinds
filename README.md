@@ -11,3 +11,5 @@ Motor driver
 * [Data Sheet](https://cdn.prod.website-files.com/5bea6b103705ec65e37d13f6/62d9821014cb4a32615d872c_Texas_Instruments-DRV8833CPWP-datasheet.pdf)
 * [Guide](https://electropeak.com/learn/interfacing-drv8833-dual-motor-driver-module-with-arduino/)
 ### Case yellow motor
+
+### USB-C port 2-Pin
